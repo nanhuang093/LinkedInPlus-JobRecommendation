@@ -16,11 +16,7 @@ Monkey Learn: for keyward extraction [https://monkeylearn.com/keyword-extraction
 
 ## Flowchart of Back-end Logics
 Simplified Back-end Structure
-![as shown](https://github.com/OkayLetsrock/requiredPNGs/blob/main/misc/back%20end.png)
-
-## Flowchart of Front-end Logics
-Front-end Structure
-![as shown](https://github.com/OkayLetsrock/requiredPNGs/blob/main/misc/front%20end%20logics.png)
+<img width="671" alt="Job Recommendation back-end" src="https://user-images.githubusercontent.com/97426238/156944715-5e4d6a4d-a43d-40ad-9b45-af53eaf49c78.png">
 
 ## Major Impacts
 Built web application for users to search, save and apply job positions using **JavaScript, HTML, CSS, and AJAX**.
